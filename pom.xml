@@ -6,7 +6,7 @@
 
     <groupId>LockettePro</groupId>
     <artifactId>LockettePro</artifactId>
-    <version>2.12.1</version>
+    <version>2.12.2</version>
     <packaging>jar</packaging>
 
     <name>LockettePro</name>
